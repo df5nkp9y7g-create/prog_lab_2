@@ -8,7 +8,7 @@ import mymoves.status.Withdraw;
 import mymoves.physical.Tackle;
 
 
-public final class Shinx extends Pokemon {
+public class Shinx extends Pokemon {
 
     public Shinx(String name, int level) {
         super(name, level);
